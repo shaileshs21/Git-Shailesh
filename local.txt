@@ -1,0 +1,7 @@
+this file is created locally and pushed to remote repo by following commands
+
+git add .
+
+git commit -m "Remote"
+
+git push origin master
