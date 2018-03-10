@@ -2,3 +2,7 @@ This is first file to be added on github using git.
 ----------------------------------
 Best Luck...!!!
 ----------------
+
+I am making changes in this file over github i.e. online editor
+and will pull this changes into local repo by using
+git pull origin master---- commmand
